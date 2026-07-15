@@ -40,8 +40,9 @@
 |---|---|
 | Algorithm | Random Forest Classifier (200 trees) |
 | Diseases Covered | **41 conditions** |
-| Test Accuracy | **99.90%** |
+| Test Accuracy | **91.8%** |
 | Training Samples | 3,936 |
+
 
 ---
 
@@ -223,5 +224,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <div align="center">
-Made with ❤️ for better healthcare accessibility
 </div>

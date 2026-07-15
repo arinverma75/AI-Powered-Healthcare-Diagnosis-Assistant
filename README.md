@@ -195,13 +195,7 @@ DATABASE_URL=sqlite:///./mediai.db
 
 ## 📱 Screenshots
 
-| Dashboard | Symptom Checker | Hospital Finder |
-|---|---|---|
-| Welcome banner, stats, feature grid | AI prediction with confidence bar | Leaflet map + hospital cards |
-
-| Emergency SOS | Chatbot | Admin Dashboard |
-|---|---|---|
-| Animated SOS button + helplines | Bilingual EN/HI chat | Charts + user management |
+![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20093951.png?raw=true)
 
 ---
 

@@ -203,12 +203,6 @@ DATABASE_URL=sqlite:///./mediai.db
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04bd154c-8ce0-49ca-b023-099b22245b9f" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15f6725f-d59f-499d-b4b5-be70b73c24f4" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6bb54a2a-4477-4798-93a7-bac761edcb1f" />
-![image alt]("C:\Users\asus\Pictures\Screenshots\Screenshot 2026-07-15 093933.png")
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20093951.png?raw=true)
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094024.png?raw=true)
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094036.png?raw=true)
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094110.png?raw=true)
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094257.png?raw=true)
 
 ---
 

@@ -197,7 +197,7 @@ DATABASE_URL=sqlite:///./mediai.db
 
 ## 📱 Screenshots
 
-![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20093933.png?raw=true)
+![image alt]("C:\Users\asus\Pictures\Screenshots\Screenshot 2026-07-15 093933.png")
 ![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20093951.png?raw=true)
 ![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094024.png?raw=true)
 ![image alt](https://github.com/arinverma75/AI-Powered-Healthcare-Diagnosis-Assistant/blob/main/Screenshot%202026-07-15%20094036.png?raw=true)
